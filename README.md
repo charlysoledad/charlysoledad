@@ -12,7 +12,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=charlysoledad&style=flat-square&color=blue" alt=""/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlysoledad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Charly's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlysoledad)](https://github.com/anuraghazra/github-readme-stats)
   
   
 
